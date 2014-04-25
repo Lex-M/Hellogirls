@@ -1,4 +1,4 @@
-#include "stdio.h"
+#include <stdio.h>
 
 void setData(int a[],int n)//输入数据，初始化数组
 {
