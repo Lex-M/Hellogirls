@@ -7,6 +7,7 @@ void setData(int a[],int n)//输入数据，初始化数组
     {
         scanf("%d",&a[i]);
     }
+    return;
 }
 
 int kMin(int k,int n,int a[])
